@@ -140,6 +140,7 @@ img{width: 100%;}
     text-align: center;
     padding: 100px 20px;
     margin-bottom: 0px;
+    margin-top:0px
 }
 
 .footer-content h2{
@@ -155,3 +156,27 @@ img{width: 100%;}
 .footer-content p{
     color: #7FA1B6;
 }
+
+.contact-section {
+    background: #FEF3EC;
+    padding: 5% 0px;
+    margin: 0;
+}
+
+.contact-content{
+    text-align: center;
+    margin: 0 10%;
+    display: flex;
+}
+
+.user-box{width: 50%;}
+.message-box{width: 50%;margin:0px 10px;}
+
+input, textarea{
+    padding: 17px 20px;
+    margin: 5px;
+    border: 1px solid #FEF3EC;
+    box-shadow: 0px 0px 5px #ddd;
+    width: 90%;
+}
+
