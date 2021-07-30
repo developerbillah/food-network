@@ -60,7 +60,7 @@ img{width: 100%;}
 }
 
 .banner-section{
-    background-image: url('/images/7.png');
+    background-image: url('/images/bg.png');
     background-repeat: no-repeat;
     display: flex;
 }
